@@ -1,4 +1,4 @@
-# Department Dashboard (Web Engineering - Project)
+# Department Dashboard (Web Engineering - Project -- MERN Stack)
 
 Design a web application to build dashboard where a user can login and view information about the Compute Software Engineering Department, MCS.
 
